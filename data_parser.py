@@ -10,6 +10,7 @@ class DataParser:
         return Type(type_name, type_data.json()["damage_relations"])
 
     def get_input_results(self):
+        print("Type attack and pokemon types")
         types_input = input()
         types_list = types_input.split(" ")
         types_list.pop(1)
