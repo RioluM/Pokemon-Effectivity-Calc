@@ -1,1 +1,1 @@
-"# Pokemon-Effectivity-Calc" 
+# Pokemon-Effectivity-Calc
